@@ -1,0 +1,30 @@
+.shop-main{
+    background-color: rgb(247, 217, 162);
+}
+.image{
+    height:20em;
+    width:20em;
+}
+.item-card{
+    display:flex;
+    justify-content: flex-start;
+    text-align: center;
+    flex-direction: column;
+    width: 20em;
+    margin-top: 10em;
+    background-color: rgb(247, 217, 162);
+}
+.items{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-top: -5em;
+}
+.welcome{
+    font-size: 3em;
+    text-align: center;
+}
+.card-text{
+    font-size: 2em;
+}

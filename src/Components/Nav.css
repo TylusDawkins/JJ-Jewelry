@@ -1,0 +1,29 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing: border-box;
+}
+
+
+
+#logo{
+    height:100%;
+    width:15em;
+}
+.nav{
+    display:flex;
+    align-items:center;
+    background-color:rgb(248, 188, 145);
+    
+}
+.list{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.link{
+    padding: 50px;
+    text-decoration: none;
+    color: black;
+    font-size: 2em;
+}

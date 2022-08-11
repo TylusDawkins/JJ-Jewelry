@@ -1,0 +1,24 @@
+.details-main{
+    background-color: rgb(247, 217, 162);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20em;
+}
+.item-details{
+    display: "flex";
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.buttons{
+    display:flex;
+    align-items: bottom;
+}
